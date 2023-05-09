@@ -1,4 +1,4 @@
-# Określenie zmienności lesistości w gminie Wojciechów na podstawie zdjęć satelitarnych z 2015 i 2022 roku
+# Określenie zmienności lesistości w gminie Wojciechów na podstawie zdjęć satelitarnych z 2015 i 2022 roku - Agata Kneć, Karol Trojanowski
 > Projekt wykonany w ramach zaliczenia przedmiotu "Zaawansowane analizy przestrzenne".
 
 ## Spis treści
